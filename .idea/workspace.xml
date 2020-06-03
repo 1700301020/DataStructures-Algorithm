@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a69ee13-f860-4e2f-9144-79ede996e458" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaStudy" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Za68VKWUwj17bOHuWJwlDreK2h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/NTP协议网络对时程序实现/NtpTest" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaStudy\src\computerNet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaStudy\src\computerNet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HorseChessboard">
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Dijkstra.Dijkstra" />
+      <module name="JavaDataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Floyd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Floyd.Floyd" />
+      <module name="JavaDataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HorseChessboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Horse.HorseChessboard" />
+      <module name="JavaDataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kruskal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Kruskal.Kruskal" />
+      <module name="JavaDataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kruskal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Kruskal.kruskal" />
+      <module name="JavaDataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HorseChessboard" />
+        <item itemvalue="Application.Floyd" />
+        <item itemvalue="Application.Dijkstra" />
+        <item itemvalue="Application.Kruskal" />
+        <item itemvalue="Application.kruskal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a69ee13-f860-4e2f-9144-79ede996e458" name="Default Changelist" comment="" />
+      <created>1585064698668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585064698668</updated>
+      <workItem from="1585064699979" duration="1119000" />
+      <workItem from="1585194964524" duration="18478000" />
+      <workItem from="1585307309452" duration="8961000" />
+      <workItem from="1585373246766" duration="19228000" />
+      <workItem from="1585627236370" duration="9535000" />
+      <workItem from="1585654992788" duration="8422000" />
+      <workItem from="1585716290891" duration="9880000" />
+      <workItem from="1585744435285" duration="67000" />
+      <workItem from="1585756653511" duration="3113000" />
+      <workItem from="1585761446502" duration="720000" />
+      <workItem from="1585799845431" duration="10743000" />
+      <workItem from="1585811515607" duration="17204000" />
+      <workItem from="1585840158312" duration="941000" />
+      <workItem from="1585841113028" duration="122000" />
+      <workItem from="1588171851894" duration="12000" />
+      <workItem from="1588171888898" duration="7000" />
+      <workItem from="1589077243419" duration="12295000" />
+      <workItem from="1589162504195" duration="12000" />
+      <workItem from="1589169700953" duration="9123000" />
+      <workItem from="1589248149476" duration="13019000" />
+      <workItem from="1589337799549" duration="10769000" />
+      <workItem from="1589425290951" duration="6175000" />
+      <workItem from="1589510495289" duration="6908000" />
+      <workItem from="1589535136423" duration="1208000" />
+      <workItem from="1589690605105" duration="11059000" />
+      <workItem from="1589767271354" duration="17343000" />
+      <workItem from="1590135111483" duration="7639000" />
+      <workItem from="1590460088876" duration="14011000" />
+      <workItem from="1590548354961" duration="17172000" />
+      <workItem from="1590635933987" duration="14073000" />
+      <workItem from="1590727115888" duration="15376000" />
+      <workItem from="1590805203218" duration="16719000" />
+      <workItem from="1590892808044" duration="374000" />
+      <workItem from="1590893212754" duration="15017000" />
+      <workItem from="1590981519153" duration="9499000" />
+      <workItem from="1591065480037" duration="15854000" />
+      <workItem from="1591156113559" duration="18710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590893155992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1590893155992" />
+    <state x="520" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1591175864998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1591175864998" />
+    <state x="373" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589812486986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="373" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1589812486986" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585841206117">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1585841206117" />
+    <state x="2469" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1585841056272" />
+    <state width="1493" height="314" key="GridCell.Tab.0.bottom" timestamp="1591191275532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1591191275532" />
+    <state width="1493" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1591109430642" />
+    <state width="1493" height="314" key="GridCell.Tab.0.center" timestamp="1591191275532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1591191275532" />
+    <state width="1493" height="264" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1591109430642" />
+    <state width="1493" height="314" key="GridCell.Tab.0.left" timestamp="1591191275532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1591191275532" />
+    <state width="1493" height="264" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1591109430642" />
+    <state width="1493" height="314" key="GridCell.Tab.0.right" timestamp="1591191275532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="314" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1591191275532" />
+    <state width="1493" height="264" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1591109430642" />
+    <state width="1493" height="319" key="GridCell.Tab.1.bottom" timestamp="1591023228544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1591023228544" />
+    <state width="1493" height="319" key="GridCell.Tab.1.center" timestamp="1591023228544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1591023228544" />
+    <state width="1493" height="319" key="GridCell.Tab.1.left" timestamp="1591023228544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1591023228544" />
+    <state width="1493" height="319" key="GridCell.Tab.1.right" timestamp="1591023228544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1591023228544" />
+    <state x="583" y="346" key="ReplaceDuplicatesPrompt" timestamp="1585636760672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="583" y="346" key="ReplaceDuplicatesPrompt/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1585636760672" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1585821274664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1585821274664" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1589087339251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1589087339251" />
+    <state x="312" y="15" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591181858851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="312" y="15" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1591181858851" />
+    <state x="321" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585322640961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="321" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1585322640961" />
+    <state x="798" y="191" width="538" height="500" key="extract.method.dialog" timestamp="1590901984081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="798" y="191" width="538" height="500" key="extract.method.dialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1590901984081" />
+    <state x="447" y="11" width="642" height="801" key="find.popup" timestamp="1589086279123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="11" width="642" height="801" key="find.popup/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1589086279123" />
+    <state x="178" y="22" key="new project wizard" timestamp="1585841208409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1585841208409" />
+    <state x="2098" y="22" key="new project wizard/0.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1585841075226" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591165259149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1591165259149" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/Greedy/Greedy.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
